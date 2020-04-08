@@ -1,18 +1,13 @@
 ---
-layout: single
-title: About
+layout : single
+title:  ME?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+---
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+1. Name : Jang Kyeong Bin
+2. Living Place : Bupyeong
+3. Univ : INU
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[![INU](http://www.inu.ac.kr/mbshome/mbs/inu/images/0805_logoImg1.jpg)](http://www.inu.ac.kr/mbshome/mbs/inu/index.do)
