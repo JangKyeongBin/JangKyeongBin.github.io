@@ -25,10 +25,10 @@ B=\begin{bmatrix}
 B_{1,1}&B_{1,2}\\
 B_{2,1}&B_{2,2}
 \end{bmatrix},
-C=\begin{bmatrix}
+ C=\begin{bmatrix}
 C_{1,1}&C_{1,2}\\
 C_{2,1}&C_{2,2}
-\end{bmatrix},
+\end{bmatrix}
 $$
 
 위와 같이 세개의 행렬이 있다.
