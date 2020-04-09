@@ -8,6 +8,7 @@ tags :
  - github pages
  - jekyll
  - minimal-mistakes
+use_math : true
 date : "2020-04-08 17:00"
 ---
 
